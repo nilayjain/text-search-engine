@@ -1,12 +1,4 @@
-IR Assignment 1.
-
-Group Members:               Rohan Jain         2013A7PS099P
-							 Nilay Jain         2013A7PS179P
-							 Shubham Sharma     2013A7PS110P
-							 Akhilesh Sudhakar  2013A7PS173P
-							 Aditya Maharana    2012A7PS041P	 
-							 
-We've used Vector Space model for our assignment. The corpus consists of around 1550 documents. So we're attaching the corpus with the assignment. From the directory that this readme file is in, type in the following command to run the code:
+We've used Vector Space model. The corpus consists of around 1550 documents. So we're attaching the corpus with the assignment. From the directory that this readme file is in, type in the following command to run the code:
 	
 	python ir.py
 	
